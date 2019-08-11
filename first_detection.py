@@ -33,6 +33,7 @@ import xgboost as xgb
 
 
 
+
 #%%
 df_trans = pd.read_csv('../datas/train_transaction.csv')
 df_test_trans = pd.read_csv('../datas/test_transaction.csv')
